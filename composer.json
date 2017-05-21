@@ -15,7 +15,7 @@
     }
   ],
   "require": {
-    "symfony/framework-bundle": "~2.6",
+    "symfony/framework-bundle": "~3.2",
     "symfony/yaml": "~2.6",
     "asimlqt/php-google-spreadsheet-client": "2.3.7",
     "google/apiclient": "1.1.6"
